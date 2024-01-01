@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1038332004567",
+    "project_id": "fitness-tracker-jaysanghani19",
+    "firebase_url":"https://fitness-tracker-jaysanghani19-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "storage_bucket": "fitness-tracker-jaysanghani19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038332004567:android:641e41a12d49c9c3bf8892",
+        "android_client_info": {
+          "package_name": "com.jay.fitnesstracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS2JbpeFL_rmZyAVKWCrnNWKAewFGnnGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
